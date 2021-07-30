@@ -1,1 +1,1 @@
-Paste train.csv gere from downloaded dataset
+Paste train.csv here from downloaded dataset
